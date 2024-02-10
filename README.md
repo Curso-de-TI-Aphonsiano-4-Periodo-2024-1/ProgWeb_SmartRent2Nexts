@@ -81,7 +81,10 @@ Sistema para locação de automóveis em python.
 |QWE4R56|33333333333| 26/02/2024  | 1       |R$ 105,89|             |              |
 
 ## Desafio
-1. Dentro da pasta 
+1. Procure pelos comentários com `# TODO:` e veja o que há para ser feito!
+
+Exemplo:
+
 1. Dentro da pasta _entidades_ no arquivo `veiculo.py` há uma classe Combustivel e deve ser retirada do arquivo:
     * Crie um arquivo `combustivel.py`
     * Recorte a classe _Combustivel_ e cole no arquivo
@@ -89,7 +92,6 @@ Sistema para locação de automóveis em python.
     * Execute os testes para conferir se tudo está Ok!
     * Execute o programa!
 1. No aquivo de teste `test\model.veiculo.text.py` há o teste *test_pesquisa_com_parametro_deve_retornar_list_com_um_elemento* com varias validações, separe as validações deixando apenas uma em cada teste!
-1. 
 
     
 ## Instruções
